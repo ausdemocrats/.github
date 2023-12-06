@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to the 
+Welcome to the official Github of the Australian Democrats. 
+Electoral content authorised by A. Castrique, Australian Democrats, Nairne.
+ 
 
 <!--
 
